@@ -1,0 +1,21 @@
+Tovo HTML Version 4.0 Updates :
+Updated : upgrade bootstrap 4 to 5
+========================================
+
+Tovo HTML Version 3.1.1 Updates :
+fixed : change the pug tag structure and fix tag ending issue
+Fixed : RTL layout issue.
+========================================
+
+Tovo HTML Version 3.1 Updates :
+Added : pug & gulp for automation 
+========================================
+Tovo HTML Version 3.0 Updates :
+Added : RTL version
+Added : facebook chat and mailchimp
+========================================
+Tovo HTML Version 2.0 Updates :
+Fixed : Responsive Issue
+Added : Sign in , Signup Forgot pages 
+Added : 404 Error Page
+Added : Thankyou , Downloads , Faq , Review , Coming Soon , Email Template Pages
